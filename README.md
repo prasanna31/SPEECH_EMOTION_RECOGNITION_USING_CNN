@@ -28,6 +28,8 @@ COVOLUTIONAL NEURAL NETWORK:
   *stride size is (2,2)
   now the layers are flattened to fully connected layers with activation function softmax 
   we add a dropout to reduce the overfitting of our data.
+  
+  
 CURRENT INPUT:
   we record our current input using pyaudio module.
   
